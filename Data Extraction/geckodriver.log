@@ -1,0 +1,28 @@
+1694885424413	geckodriver	INFO	Listening on 127.0.0.1:60963
+1694885427467	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60964" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileUYBAcl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694885429273	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694885429523	Marionette	INFO	Listening on port 60979
+WebDriver BiDi listening on ws://127.0.0.1:60964
+Read port: 60979
+1694885430065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60964/devtools/browser/6c2f6ace-98f9-4c60-8239-8a2ebe3c4a5e
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D38i8ocviMyns63bFlxz04547CGgVcdJsS8VZS_5djY.js line 2 > eval line 3924 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC, line 120: Script terminated by timeout at:
+jb@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:120:124
+mb@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:121:49
+fw@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:370:221
+ew.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:374:266
+ew.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:372:207
+Yv@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:369:712
+tF/<@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:506:153
+aa.yk/<@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:458:126
+aa.yk/c/<@https://www.googletagmanager.com/gtag/js?id=G-2RYZG7Y4NC:457:420
+
+1694885455581	Marionette	INFO	Stopped listening on port 60979
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
