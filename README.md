@@ -83,6 +83,7 @@ An in-depth analysis sheds light on the Noida vegetable market, uncovering facto
    <div align="center">
   <ul align="left">
     <img src="https://github.com/Sourabh1129/Vegetable_Market_Analysis/assets/137646963/055e8e06-e33f-4865-bfac-bc9b6f6805fb"  width="350" height="300" align="right">
+      
   - **Low-Income Impact**: In low-income areas, a substantial decrease in inflation by -13% suggests significant affordability improvements for essential vegetables, 
       benefiting low-income households.
 
