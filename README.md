@@ -42,31 +42,42 @@ Welcome to our Noida and Nearby Vegetable Market Analysis project, where we dive
 
 ## Analysis
  ### Price Trends 📈
-The provided points collectively convey that the project focuses on the significance of analyzing monthly vegetable prices, highlights the pronounced price fluctuations primarily driven by seasons, and identifies certain vegetables with stable year-round prices, revealing important market dynamics:
+ The provided points collectively convey that the project focuses on the significance of analyzing monthly vegetable prices, highlights the pronounced price fluctuations 
+  primarily driven by seasons, and identifies certain vegetables with stable year-round prices, revealing important market dynamics:
 
-  - **Price Analysis Significance**: Analyzing the average price of each vegetable every month stands as a crucial aspect of your vegetable market analysis project, offering valuable insights into market dynamics.
+  - **Price Analysis Significance**: Analyzing the average price of each vegetable every month stands as a crucial aspect of your vegetable market analysis project, 
+     offering valuable insights into market dynamics.
 
-  - **Price Trends**: The analysis uncovered significant price fluctuations over the course of the year, primarily influenced by seasonal factors, which provides valuable information for both consumers and sellers.
+  - **Price Trends**: The analysis uncovered significant price fluctuations over the course of the year, primarily influenced by seasonal factors, which provides valuable 
+      information for both consumers and sellers.
 
-  - **Stable Vegetable Prices**: Notably, some vegetables demonstrated price stability year-round, indicating a consistent supply and affordability, which can be beneficial for consumers seeking dependable options.
+  - **Stable Vegetable Prices**: Notably, some vegetables demonstrated price stability year-round, indicating a consistent supply and affordability, which can be 
+       beneficial for consumers seeking dependable options.
  ### Price Disparity 💰
- An in-depth analysis sheds light on the Noida vegetable market, uncovering factors that contribute to its affordability and attractiveness for both consumers and businesses:
+An in-depth analysis sheds light on the Noida vegetable market, uncovering factors that contribute to its affordability and attractiveness for both consumers and 
+    businesses:
  
-  - **Cost-Effective Noida Market**: Noida consistently provides lower prices for most vegetables, establishing itself as a cost-effective choice for consumers and businesses.
+  - **Cost-Effective Noida Market**: Noida consistently provides lower prices for most vegetables, establishing itself as a cost-effective choice for consumers and 
+     businesses.
 
-  - **Potential for Significant Savings**: The noticeable price difference emphasizes the potential for substantial savings when purchasing vegetables in Noida, making it an attractive option for budget-conscious 
+  - **Potential for Significant Savings**: The noticeable price difference emphasizes the potential for substantial savings when purchasing vegetables in Noida, making it 
+      an attractive option for budget-conscious 
       consumers.
 
-  - **Factors Behind Lower Prices**: The lower prices in Noida can be attributed to factors such as proximity to agricultural regions and robust market competition, which collectively contribute to the affordability and 
-   improved profit margins for those involved in the vegetable trade.
+  - **Factors Behind Lower Prices**: The lower prices in Noida can be attributed to factors such as proximity to agricultural regions and robust market competition, which 
+      collectively contribute to the affordability and 
+      improved profit margins for those involved in the vegetable trade.
 
- ### Economic Inflation Analysis 💹
- - **Low-Income Impact**: In low-income areas, a substantial decrease in inflation by -13% suggests significant affordability improvements for essential vegetables, benefiting low-income households.
+  ### Economic Inflation Analysis 💹
+  - **Low-Income Impact**: In low-income areas, a substantial decrease in inflation by -13% suggests significant affordability improvements for essential vegetables, 
+      benefiting low-income households.
 
- - **Middle-Income Stability**: Despite a -4% inflation rate, middle-income areas show potential price stabilization, which could be advantageous for middle-income families.
+  - **Middle-Income Stability**: Despite a -4% inflation rate, middle-income areas show potential price stabilization, which could be advantageous for middle-income 
+     families.
 
- - **Higher-Income Trends**: In higher-income areas, a milder decrease in inflation at -2% may have a less pronounced effect on affordability due to greater purchasing power, while overall market trends point towards 
-  increased vegetable affordability and stability, though ongoing monitoring is necessary.
+  - **Higher-Income Trends**: In higher-income areas, a milder decrease in inflation at -2% may have a less pronounced effect on affordability due to greater purchasing 
+   power, while overall market trends point towards 
+     increased vegetable affordability and stability, though ongoing monitoring is necessary.
 
   ### Excel Dashboard 📊
 
