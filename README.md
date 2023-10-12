@@ -1,4 +1,4 @@
-<img src="https://us.123rf.com/450wm/microone/microone1810/microone181000166/109357276-vegetables-hand-drawn-background-organic-food-vegetable-set-sketch-vegan-vector-menu-design.jpg?ver=6" width="1000" height="350" align="center">
+![image](https://github.com/Sourabh1129/Vegetable_Market_Analysis/assets/137646963/66249a48-5edc-4df8-ae3f-1b3d579036d6)<img src="https://us.123rf.com/450wm/microone/microone1810/microone181000166/109357276-vegetables-hand-drawn-background-organic-food-vegetable-set-sketch-vegan-vector-menu-design.jpg?ver=6" width="1000" height="350" align="center">
     
 ## Vegetable Market Analysis🥦🌽📈
 
@@ -12,11 +12,12 @@ Welcome to our Noida and Nearby Vegetable Market Analysis project, where we dive
 - [Analysis 🔍](#analysis)
    - [Price Trends 🚀](#price-trends-)
    - [Price Disparity 💰](#price-disparity-)
-   - [Seasonal Price Fluctuations 🌱](#seasonal-price-fluctuations-)
-   - [Income Based Spending Analysis 🧺](#income-based-spending-analysis-)
    - [Economic Inflation Analysis 💹](#economic-inflation-analysis-)
-- [Excel Dashboard 📊](#excel-dashboard-)
-- 
+   - [Excel Dashboard 📊](#excel-dashboard-)
+- [Challenges 🧗‍♂️](#challenges-)
+- [Conclusion 🎯](#conclusion-)
+- [Website References 🌐](#website-references-)
+- [Acknowledgments 🙏](#acknowledgments-)
 
 ## Introduction 🌟
 - **Comprehensive Analysis**: Our team conducted an extensive analysis of the Noida vegetable market, offering a holistic perspective on various aspects.
@@ -58,7 +59,54 @@ The provided points collectively convey that the project focuses on the signific
 
   - **Factors Behind Lower Prices**: The lower prices in Noida can be attributed to factors such as proximity to agricultural regions and robust market competition, which collectively contribute to the affordability and 
    improved profit margins for those involved in the vegetable trade.
- 
+
+ ### Economic Inflation Analysis 💹
+ - **Low-Income Impact**: In low-income areas, a substantial decrease in inflation by -13% suggests significant affordability improvements for essential vegetables, benefiting low-income households.
+
+ - **Middle-Income Stability**: Despite a -4% inflation rate, middle-income areas show potential price stabilization, which could be advantageous for middle-income families.
+
+ - **Higher-Income Trends**: In higher-income areas, a milder decrease in inflation at -2% may have a less pronounced effect on affordability due to greater purchasing power, while overall market trends point towards 
+  increased vegetable affordability and stability, though ongoing monitoring is necessary.
+
+  ### Excel Dashboard 📊
+
+
+### Challenges 🧗‍♂️
+- **Dynamic Web Pages**: The websites we scraped were dynamic, featuring elements that loaded asynchronously. Adapting to these changes demanded ongoing adjustments to our scraping code to maintain effectiveness.
+
+- **Data Validation**: Ensuring the accuracy and integrity of the scraped data posed a significant challenge. To address this, we implemented robust validation mechanisms to filter out irrelevant or incorrect information, 
+ guaranteeing the reliability of the data collected.
+
+### Conclusion 🎯
+The analysis in Noida highlighted price trends and income group preferences, emphasizing the need for tailored strategies to address affordability and diverse consumer needs. It also revealed the potential for rapid-commerce vegetable businesses in Delhi due to the demand for convenient urban delivery services. Overall, the project findings emphasized adaptability to evolving consumer behaviors in Delhi's vegetable market.
+
+
+### Website References 🌐
+- Python Software Foundation. (2022). Python Language Reference, version 3.10. Retrieved from 
+https://docs.python.org/3/reference/index.html
+
+- Wikipedia contributors. (2023, April 19). Selenium. In Wikipedia, The Free Encyclopedia. 
+Retrieved 15:44, April 22, 2023, 
+from "https://en.wikipedia.org/wiki/Selenium"
+
+- Pandas Development Team. (n.d.). pandas 1.4.5 documentation. Retrieved April 22, 2023, from 
+ "https://pandas.pydata.org/docs/"
+
+- Scikit-learn developers. (n.d.). Clustering. Retrieved April 22, 2023, from "https://scikit- 
+ learn.org/stable/modules/clustering.html"
+
+- Selenium with Python: https://selenium-python.readthedocs.io/
+
+ ### Acknowledgments 🙏
+- I would like to express my sincere gratitude to the following individuals:
+
+- Mentor: Rishabh Sengar for his invaluable guidance, continuous support, and insightful feedback 
+  throughout the project.
+- Team Members: Shivanni Shinde, Somya Gupta, Brajesh V Kulkarni for their collaboration, 
+  contributions, and teamwork, which enriched the project significantly.
+- Your encouragement and expertise were instrumental in making this project a success. Thank you 
+  for your time, knowledge, and dedication.
+
 
 
 
