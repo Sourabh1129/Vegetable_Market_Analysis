@@ -1,4 +1,4 @@
-![image](https://github.com/Sourabh1129/Vegetable_Market_Analysis/assets/137646963/66249a48-5edc-4df8-ae3f-1b3d579036d6)<img src="https://us.123rf.com/450wm/microone/microone1810/microone181000166/109357276-vegetables-hand-drawn-background-organic-food-vegetable-set-sketch-vegan-vector-menu-design.jpg?ver=6" width="1000" height="350" align="center">
+<img src="https://us.123rf.com/450wm/microone/microone1810/microone181000166/109357276-vegetables-hand-drawn-background-organic-food-vegetable-set-sketch-vegan-vector-menu-design.jpg?ver=6" width="1000" height="350" align="center">
     
 ## Vegetable Market Analysis🥦🌽📈
 
