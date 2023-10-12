@@ -42,6 +42,10 @@ Welcome to our Noida and Nearby Vegetable Market Analysis project, where we dive
 
 ## Analysis
  ### Price Trends 📈
+ <div style="display: flex; align-items: right;">
+  <img src="![image](https://github.com/Sourabh1129/Vegetable_Market_Analysis/assets/137646963/c9f35304-a18e-4f4b-a2c0-86b535cc9510)
+" alt="Image" width="350" height="250" align="left">
+  <div style="margin-left: 20px;">
  The provided points collectively convey that the project focuses on the significance of analyzing monthly vegetable prices, highlights the pronounced price fluctuations 
   primarily driven by seasons, and identifies certain vegetables with stable year-round prices, revealing important market dynamics:
 
