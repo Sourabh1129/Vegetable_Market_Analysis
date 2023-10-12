@@ -1,15 +1,22 @@
+<img src="https://us.123rf.com/450wm/microone/microone1810/microone181000166/109357276-vegetables-hand-drawn-background-organic-food-vegetable-set-sketch-vegan-vector-menu-design.jpg?ver=6" width="1000" height="300" align="center">
+    
 ## Vegetable Market Analysis🥦🌽📈
 
 Welcome to our Noida and Nearby Vegetable Market Analysis project, where we dive deep into the heart of Noida's bustling vegetable market and its neighboring market to uncover valuable insights and trends. In this endeavor, we harness the power of Python and the Selenium library to extract, analyze, and interpret data that sheds light on the many facets of these vital economic hubs.
 
 ## 📑 Table of Contents
 
-- [Introduction 🌟](#introduction-)   
+- [Introduction 🌟](#introduction-)
+- [Project Overview 📊](#project-overview-)
 - [Objectives 🎯](#objectives-)
-- [Analysis 🔍](#analysis-)
+- [Analysis 🔍](#analysis)
    - [Price Trends 🚀](#price-trends-)
    - [Price Disparity 💰](#price-disparity-)
    - [Seasonal Price Fluctuations 🌱](#seasonal-price-fluctuations-)
+   - [Income Based Spending Analysis 🧺](#income-based-spending-analysis-)
+   - [Economic Inflation Analysis 💹](#economic-inflation-analysis-)
+- [Excel Dashboard 📊](#excel-dashboard-)
+- 
 
 ## Introduction 🌟
 - **Comprehensive Analysis**: Our team conducted an extensive analysis of the Noida vegetable market, offering a holistic perspective on various aspects.
@@ -17,6 +24,12 @@ Welcome to our Noida and Nearby Vegetable Market Analysis project, where we dive
 - **Price Insights and Seasonal Trends**: We dived into pricing dynamics, comparing average monthly prices with neighboring markets and highlighting seasonal trends in vegetable availability, providing valuable information for both buyers and sellers.
 
 - **Income Groups and Technology Integration**: We explored the impact of vegetable prices on different income groups, emphasizing affordability and accessibility. We also showcased our commitment to efficient data extraction using the Selenium library in Python, ensuring the accuracy and timeliness of our findings.
+
+## Project Overview 📊 
+
+- **Data Source**: Scrape data from vegetablemarketprice using Python.
+- **Libraries Used**: NumPy, Pandas, Selenium.
+- **Recommendation Model**: This component of the vegetable market analysis project aims to predict preferred vegetable prices and suggest suitable market locations based on consumer preferences, vegetable cuisine, and budget considerations.
 
 ## Objectives 🎯
 
@@ -46,6 +59,7 @@ The provided points collectively convey that the project focuses on the signific
   - **Factors Behind Lower Prices**: The lower prices in Noida can be attributed to factors such as proximity to agricultural regions and robust market competition, which collectively contribute to the affordability and 
    improved profit margins for those involved in the vegetable trade.
  
+
 
 
 
