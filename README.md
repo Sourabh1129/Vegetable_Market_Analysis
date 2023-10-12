@@ -33,6 +33,11 @@ Welcome to our Noida and Nearby Vegetable Market Analysis project, where we dive
 - **Recommendation Model**: This component of the vegetable market analysis project aims to predict preferred vegetable prices and suggest suitable market locations based on consumer preferences, vegetable cuisine, and budget considerations.
 
 ## Objectives 🎯
+<div align="center">
+  <ul align="left">
+    <img src="https://github.com/ShivanniShinde/Vegetable_Market_-Analysis/assets/143825606/c705cfc8-7e65-405b-bd84-a2ebd9f81b1c" width="160" height="160" align="left">
+  </ul>
+</div>
 
 - Our first step is to gather comprehensive and trustworthy data from relevant websites, forming the foundation of our vegetable market analysis.
 
@@ -42,12 +47,11 @@ Welcome to our Noida and Nearby Vegetable Market Analysis project, where we dive
 
 ## Analysis
  ### Price Trends 📈
- <div style="display: flex; align-items: right;">
-  <img src="![image](https://github.com/Sourabh1129/Vegetable_Market_Analysis/assets/137646963/c9f35304-a18e-4f4b-a2c0-86b535cc9510)
-" alt="Image" width="350" height="250" align="left">
-  <div style="margin-left: 20px;">
  The provided points collectively convey that the project focuses on the significance of analyzing monthly vegetable prices, highlights the pronounced price fluctuations 
   primarily driven by seasons, and identifies certain vegetables with stable year-round prices, revealing important market dynamics:
+  <div align="center">
+  <ul align="left">
+    <img src="https://github.com/Sourabh1129/Vegetable_Market_Analysis/assets/137646963/211918f7-7eda-4051-8d96-cd8428713fc3"  width="350" height="300" align="right">
 
   - **Price Analysis Significance**: Analyzing the average price of each vegetable every month stands as a crucial aspect of your vegetable market analysis project, 
      offering valuable insights into market dynamics.
@@ -60,6 +64,9 @@ Welcome to our Noida and Nearby Vegetable Market Analysis project, where we dive
  ### Price Disparity 💰
 An in-depth analysis sheds light on the Noida vegetable market, uncovering factors that contribute to its affordability and attractiveness for both consumers and 
     businesses:
+  <div align="center">
+  <ul align="left">
+    <img src="https://github.com/Sourabh1129/Vegetable_Market_Analysis/assets/137646963/02024765-9c51-4157-8df0-376581661393"  width="350" height="300" align="right">
  
   - **Cost-Effective Noida Market**: Noida consistently provides lower prices for most vegetables, establishing itself as a cost-effective choice for consumers and 
      businesses.
@@ -73,6 +80,9 @@ An in-depth analysis sheds light on the Noida vegetable market, uncovering facto
       improved profit margins for those involved in the vegetable trade.
 
   ### Economic Inflation Analysis 💹
+   <div align="center">
+  <ul align="left">
+    <img src="https://github.com/Sourabh1129/Vegetable_Market_Analysis/assets/137646963/055e8e06-e33f-4865-bfac-bc9b6f6805fb"  width="350" height="300" align="right">
   - **Low-Income Impact**: In low-income areas, a substantial decrease in inflation by -13% suggests significant affordability improvements for essential vegetables, 
       benefiting low-income households.
 
@@ -84,7 +94,6 @@ An in-depth analysis sheds light on the Noida vegetable market, uncovering facto
      increased vegetable affordability and stability, though ongoing monitoring is necessary.
 
   ### Excel Dashboard 📊
-
 
 ### Challenges 🧗‍♂️
 - **Dynamic Web Pages**: The websites we scraped were dynamic, featuring elements that loaded asynchronously. Adapting to these changes demanded ongoing adjustments to our scraping code to maintain effectiveness.
