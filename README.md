@@ -95,6 +95,12 @@ An in-depth analysis sheds light on the Noida vegetable market, uncovering facto
      increased vegetable affordability and stability, though ongoing monitoring is necessary.
 
   ### Excel Dashboard 📊
+  <p align="center">
+  <img src="https://github.com/Sourabh1129/Vegetable_Market_Analysis/assets/137646963/da8d0f9f-653c-4bbf-9f1c-501813920426" width="900" height="650">
+  </p>
+
+  <div align="center">
+  </div>
 
 ### Challenges 🧗‍♂️
 - **Dynamic Web Pages**: The websites we scraped were dynamic, featuring elements that loaded asynchronously. Adapting to these changes demanded ongoing adjustments to our scraping code to maintain effectiveness.
