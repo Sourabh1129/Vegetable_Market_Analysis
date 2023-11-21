@@ -1,8 +1,9 @@
-<img src="https://us.123rf.com/450wm/microone/microone1810/microone181000166/109357276-vegetables-hand-drawn-background-organic-food-vegetable-set-sketch-vegan-vector-menu-design.jpg?ver=6" width="1000" height="350" align="center">
-    
 ## Vegetable Market Analysis🥦🌽📈
 
 Welcome to our Noida and Nearby Vegetable Market Analysis project, where we dive deep into the heart of Noida's bustling vegetable market and its neighboring market to uncover valuable insights and trends. In this endeavor, we harness the power of Python and the Selenium library to extract, analyze, and interpret data that sheds light on the many facets of these vital economic hubs.
+
+<img src="https://us.123rf.com/450wm/microone/microone1810/microone181000166/109357276-vegetables-hand-drawn-background-organic-food-vegetable-set-sketch-vegan-vector-menu-design.jpg?ver=6" width="1000" height="350" align="center">
+    
 
 ## 📑 Table of Contents
 
